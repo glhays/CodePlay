@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlQueryProtect", "src\SqlQueryProtect\SqlQueryProtect.csproj", "{8CD41427-E104-4BCA-A247-52CC146C1C98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlayingWithMermaid", "src\PlayingWithMermaid\PlayingWithMermaid.csproj", "{64260615-945C-442B-B596-36AC9BBC0945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD41427-E104-4BCA-A247-52CC146C1C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD41427-E104-4BCA-A247-52CC146C1C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD41427-E104-4BCA-A247-52CC146C1C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD41427-E104-4BCA-A247-52CC146C1C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64260615-945C-442B-B596-36AC9BBC0945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64260615-945C-442B-B596-36AC9BBC0945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64260615-945C-442B-B596-36AC9BBC0945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64260615-945C-442B-B596-36AC9BBC0945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA7FEEF-2C15-42BE-A5E8-6B16CC1A637B}
+	EndGlobalSection
+EndGlobal
